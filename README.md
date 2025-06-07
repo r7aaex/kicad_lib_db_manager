@@ -73,3 +73,5 @@ Following script will show how to import one digikey csv file and one mouser csv
 Configuring kicad 8 to use the library db
 
 https://www.youtube.com/watch?v=nZqoay-Yevk
+
+For a minimal Circuit AI setup that combines component search with GPT-4o, see [docs/circuit_ai_minimal.md](docs/circuit_ai_minimal.md).
